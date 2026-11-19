@@ -1,0 +1,4 @@
+# Дополнительно для сборки EXE и запуска тестов
+-r requirements.txt
+pyinstaller>=6.3
+pytest>=8.0
